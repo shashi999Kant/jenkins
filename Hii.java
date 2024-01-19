@@ -6,8 +6,8 @@ public class Hii {
         System.out.println("This is java program for jenkin testing purpose");
         System.out.println("output from java program updated");
         System.out.println(new Date());
-        System.out.println("up[date 1 time]");
-        System.out.println("up[date 1 time]");
+        System.out.println("added one more comment");
+        
 
     }
 }
