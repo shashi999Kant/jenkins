@@ -7,10 +7,10 @@ public class Hii {
         System.out.println("This is java program for jenkin testing purpose");
         System.out.println("output from java program updated");
         System.out.println(new Date());
-        System.out.println("added one more comment");
 
         System.out.println("shilpi ki shadi hone wali hai.. ");
-        System.out.println("shilpi ki shadi hone wali hai.. ");
+        Student s=new Student();
+        s.sayHello("shashi");
         
 
     }
