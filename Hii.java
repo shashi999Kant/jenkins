@@ -10,7 +10,7 @@ public class Hii {
 
         System.out.println("shilpi ki shadi hone wali hai.. ");
         Student s=new Student();
-        s.sayHello("shashi");
+        s.sayHello("shashi  updated");
         
 
     }
